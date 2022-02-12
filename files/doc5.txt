@@ -1,0 +1,5 @@
+Finally, aim to sharpen your skills. Your data science journey will be full of constant learning, but there are advanced courses you can complete to ensure you’ve covered all the bases.
+
+You’ll want to be comfortable with regression, classification, and k-means clustering models. You can also step into machine learning – bootstrapping models and creating neural networks using scikit-learn.
+
+At this point, programming projects can include creating models using live data feeds. Machine learning models of this kind adjust their predictions over time.
